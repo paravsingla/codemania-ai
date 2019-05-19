@@ -1,2 +1,2 @@
 # codemania-ai
-Course materials and additional information for the Artificial Intelligence workshop
+All the course materials, recommended learning materials and excercises will be available here after each session.
