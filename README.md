@@ -11,3 +11,4 @@ All the course materials, recommended learning materials and excercises will be 
 
 ### [Day 4](https://github.com/paravsingla/codemania-ai/tree/master/Day%204)
 
+### [Day 7](https://github.com/paravsingla/codemania-ai/tree/master/Day%207)
